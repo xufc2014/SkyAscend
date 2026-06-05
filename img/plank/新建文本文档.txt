@@ -1,0 +1,5 @@
+plank_purple｜紫楹木（紫色按钮）
+plank_darkbrown｜玄棕木（深咖啡色）
+plank_cyan｜青蓝木（天蓝色）
+plank_orange｜鎏金木（橙黄色）
+plank_beige｜原木色 / 浅黄桦木（米浅黄色）

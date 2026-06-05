@@ -1,0 +1,11 @@
+# 忽略python编译缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 忽略.claude项目目录
+.claude/
+
+# 可选：图片资源如果不上传也可以加 img/
+# img/

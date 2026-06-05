@@ -1,0 +1,6 @@
+hunder_cloud_smile｜俏皮眨眼（眯眼坏笑）
+thunder_cloud_happy｜兴奋昂扬（开心蓄力）
+thunder_cloud_surprise｜吃惊错愕（瞪大双眼）
+thunder_cloud_angry｜暴怒发火（龇牙发怒）
+thunder_cloud_shy｜委屈蔫蔫（抿嘴害羞）
+thunder_cloud_fight｜斗志满满（备战凶狠）
